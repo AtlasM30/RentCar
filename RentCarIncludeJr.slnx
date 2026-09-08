@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Itens de Solução/">
     <File Path=".gitignore" />
+    <File Path="Dockerfile" />
     <File Path="README.md" />
   </Folder>
   <Project Path="RentCar.Application/RentCar.Application.csproj" />
