@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="RentCar.Application/RentCar.Application.csproj" />
+  <Project Path="RentCar.Core/RentCar.Core.csproj" />
+  <Project Path="RentCar.Infrastructure/RentCar.Infrastructure.csproj" />
+  <Project Path="RentCarApi/RentCarApi.csproj" />
+</Solution>
