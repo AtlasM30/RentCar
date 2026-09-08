@@ -436,6 +436,11 @@ As senhas dos usuários não são armazenadas em texto puro.
 
 O sistema utiliza BCrypt para geração e validação do hash das senhas.
 
+## API publicada
+
+Swagger:
+https://rentcar-production-29d5.up.railway.app/swagger
+
 ## Autor
 
 Arthur Araújo Moreira
